@@ -9,7 +9,7 @@
 % Copyright (c) 2018 L. Tiwari (lokendert@iiitd.ac.in)
 % Infosys Center for Artificial Intelligence,
 % Dept. of Computer Science and Engineering, IIIT-Delhi, India
-% https://lokender.bitbucket.io/
+% https://lokender.github.io/
 %% Please acknowledge the authors by citing the above paper in any academic 
 %  publications that have made use of this package or part of it.
 %##########################################################################
